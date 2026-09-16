@@ -52,7 +52,7 @@ A single-screen Android app, built with **MIT App Inventor**, that lets two play
 
 ## Screenshot
 
-![App Screenshot](screenshot.png)
+![App Screenshot](IMG-20260916-WA0047.jpg)
 
 *The app in action — a mid-game board with the turn status shown at the top.*
 
